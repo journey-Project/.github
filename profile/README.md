@@ -13,6 +13,10 @@
 
 ## 팀원 구성
 
+|  |  |  |  |
+|:--:|:--:|:--:|:--:|
+| <img src="https://github.com/AshtonSW.png" width="150"/> <br> **김승원** <br> [@AshtonSW](https://github.com/AshtonSW) | <img src="https://github.com/jkchoi490.png" width="150"/> <br> **최정경** <br> [@jkchoi490](https://github.com/jkchoi490) | <img src="https://github.com/KwonSerim2.png" width="150"/> <br> **권세림** <br> [@KwonSerim2](https://github.com/KwonSerim2) | <img src="https://github.com/llleeco.png" width="150"/> <br> **이찬희** <br> [@llleeco](https://github.com/llleeco) |
+
 **BackEnd**
 
 | 이름 | Github | email                                               |
@@ -24,14 +28,16 @@
 
 | 이름 | Github | email |
 | --- | --- | --- |
+| 김승원 | [https://github.com/AshtonSW](https://github.com/AshtonSW) | [sprauncy76@gmail.com](mailto:sprauncy76@gmail.com) |
 | 권세림 | [https://github.com/KwonSeRim2](https://github.com/KwonSeRim2) | [serimkwon1@gmail.com](mailto:serimkwon1@gmail.com) |
 | 이찬희 | [https://github.com/llleeco](https://github.com/llleeco) | [lch80566@gmail.com](mailto:lch80566@gmail.com) |
 
 **Design**
 
-| 이름 | email |
-| --- | --- |
-| 장서윤 | [jsy11220603@gmail.com](mailto:jsy11220603@gmail.com) |
+| 이름 | Github | email |
+| --- | --- | --- |
+| 김승원 | [https://github.com/AshtonSW](https://github.com/AshtonSW) | [sprauncy76@gmail.com](mailto:sprauncy76@gmail.com) |
+| 장서윤 | | [jsy11220603@gmail.com](mailto:jsy11220603@gmail.com)  |
 
 ## 시스템 아키텍처
 ![찐최종여정시스템아키텍처.jpg](image/%EC%B0%90%EC%B5%9C%EC%A2%85%EC%97%AC%EC%A0%95%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.jpg)
@@ -164,4 +170,7 @@ Figma
 
 여정 프론트엔드 레포 : https://github.com/journey-Project/Frontend
 
-여정 피그마 : https://www.figma.com/design/oQFNYCoAE6Zr7qapSMC1O5/%EC%97%AC%EC%A0%95?node-id=0-1&t=5d0suT6F4L9AdQOW-1
+여정 피그마 : <br>
+초안 : https://www.figma.com/design/oQFNYCoAE6Zr7qapSMC1O5/%EC%97%AC%EC%A0%95?node-id=0-1&t=5d0suT6F4L9AdQOW-1
+<br>
+최종 : https://www.figma.com/design/ZOYFmV7T7EmlQXDdwrXBQP/%EC%97%AC%EC%A0%95-%EB%94%94%EC%9E%90%EC%9D%B8---%EA%B9%80%EC%8A%B9%EC%9B%90?node-id=1164-3118&t=4EJ29MijhQW78ssD-1
